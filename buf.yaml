@@ -4,7 +4,7 @@ modules:
     name: buf.build/joseszycho-datum/petapis
 lint:
   use:
-    - DEFAULT
+    - STANDARD
   ignore:
     - proto/google/type/datetime.proto
 breaking:
